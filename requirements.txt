@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+xgboost
+pickle-mixin
+Flask
+catboost
+statsmodels
+-e .
